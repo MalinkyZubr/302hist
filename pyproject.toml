@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "sentiment-scraper"
+version = "0.1.0"
+description = "scraper"
+authors = ["MalinkyZubr <m.ray37990@gmail.com>"]
+license = "gpl"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
