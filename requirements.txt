@@ -1,3 +1,4 @@
+ipython
 nltk==3.9.2
 selenium==4.38.0
 undetected-chromedriver==3.5.5
